@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "apiExchangeRateGW", "apiExchangeRateGW\apiExchangeRateGW.csproj", "{308E7694-D8C3-4F66-9984-B9D01AF9EB04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "apiExchangeRateMW", "apiExchangeRateMW\apiExchangeRateMW.csproj", "{29964802-6595-4061-ADD7-7A55F62F32EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{308E7694-D8C3-4F66-9984-B9D01AF9EB04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{308E7694-D8C3-4F66-9984-B9D01AF9EB04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{308E7694-D8C3-4F66-9984-B9D01AF9EB04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{308E7694-D8C3-4F66-9984-B9D01AF9EB04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29964802-6595-4061-ADD7-7A55F62F32EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29964802-6595-4061-ADD7-7A55F62F32EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29964802-6595-4061-ADD7-7A55F62F32EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29964802-6595-4061-ADD7-7A55F62F32EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63BCD548-96DA-48FB-87EC-5E89FE9D2035}
+	EndGlobalSection
+EndGlobal
